@@ -628,6 +628,8 @@ enum Encoding {
       Support for INT32, INT64 and FIXED_LEN_BYTE_ARRAY added in 2.11.
    */
   BYTE_STREAM_SPLIT = 9;
+
+  COLZIP = 10;
 }
 
 /**
